@@ -1,0 +1,16 @@
+Assembler for Microchip PIC16Cxx microcontrollers version 1.06
+compiled for OS/2 with emx/gcc 0.9d Fix#2.
+
+Please e-mail me if it works - because I've not tested it ;)
+
+-----------------------------------------------------------------------
+
+Original archive available at Timo Rossi's homepage - 
+www: http://www.iki.fi/trossi/pic/
+
+-----------------------------------------------------------------------
+
+picasm for OS/2 compiled by:
+Oleg Deribas, E-Mail:  oderibas@yahoo.com OR older@iname.com
+              FidoNet: 2:461/13
+              WWW:     http://i.am/older/
